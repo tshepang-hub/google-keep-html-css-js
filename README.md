@@ -1,2 +1,2 @@
 # google-keep-html-css-js
-This is the google keep clone that was made using HTML,CSS and also has interactivity because of javascript
+#This project is a functional Google Keep clone built using HTML, CSS, and JavaScript. It replicates the core features and user interface of the original Google Keep, providing a seamless and intuitive note-taking experience.
